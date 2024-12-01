@@ -1,6 +1,7 @@
 # TG Portfolio 📋
 Portfólio criado para a disciplina Programação para Dispositivos Móveis, ministrada pelo professor Gerson da Penha Neto, com projetos acadêmicos desenvolvidos durante a graduação.
 # Introdução
+
 ![image](https://github.com/user-attachments/assets/4e3d2870-4d20-462c-b1e6-dee050722ed6)
 
 Meu nome é João Vitor, tenho 20 anos, iniciei meus estudos na área da programação em agosto de 2021 com um curso Técnico em Desenvolvimento de Sistemas realizado pela Etec Profª Ilza Nascimento Pintus. Foi um período muito importante pois pude conhecer diferentes linguagens de programação e contextos diferentes onde cada uma delas era aplicada. Porém, achei que era necessário me aprofundar mais nos estudos e por isso decidi realizar o curso de Desenvolvimento de Software multiplataforma na FATEC São José Dos Campos, que comecei em 2023.
@@ -139,6 +140,8 @@ O AssetBox foi meu primeiro projeto em que fui Product Owner, portanto precisei 
  ![Banner](https://github.com/user-attachments/assets/edce9ea3-13ec-4363-b97f-64be715cfa92)
 
 ### Parceiro Acadêmico - Tecsus 
+
+[GIT](https://github.com/Grupo-Syntax-Squad/Tupan)
 
 ### Visão do Projeto 
 
