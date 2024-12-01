@@ -134,3 +134,34 @@ O AssetBox foi meu primeiro projeto em que fui Product Owner, portanto precisei 
 * Desenvolvimento do back-end em Java - Sei fazer com ajuda; 
 
 
+## Tupan | 2024-2 
+
+ ![Banner](https://github.com/user-attachments/assets/edce9ea3-13ec-4363-b97f-64be715cfa92)
+
+### Parceiro Acadêmico - Tecsus 
+
+### Visão do Projeto 
+
+O projeto tem como objetivo desenvolver um sistema de monitoramento de estações meteorológicas de baixo custo, capaz de receber e armazenar dados de sensores como direção e velocidade do vento, pluviometria, umidade, temperatura e pressão. O sistema gerará relatórios e dashboards com o histórico de leituras e enviará alertas em situações de risco. 
+
+### Tecnologias Utilizadas 
+
+Typescript | Next | Postgresql | Node | Django | Tailwind | Python | Figma | Docker | Redis | Azure | VisualStudio Code | C | Cypress | Jest | Swagger | SonarQube 
+
+### Contribuições Pessoais 
+
+No Tupan fui responsável pela criação do Wireframe do projeto utilizando Figma e boas práticas de UX, também pela criação do CRUD (Create, Read, Update, Delete) de estações e refatoração do código. Também atuei na documentação no projeto no Github e fui responsável pela qualidade do software, fazendo análises de código utilizando o SonarQube. 
+
+### Aprendizados Efetivos 
+
+### Soft Skills 
+
+* Pesquisa e planejamento de software utilizando de práticas de UX (Experiência do usuário); 
+* Pesquisa sobre monitoramento pluviométrico e cálculos do índice pluviométrico; 
+
+### Hard Skills 
+
+* Desenvolvimento de software com código limpo – sei fazer com autonomia; 
+* Desenvolvimento de software utilizando de práticas do Devops – Sei fazer com ajuda; 
+
+
