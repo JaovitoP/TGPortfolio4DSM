@@ -35,7 +35,7 @@ Gosto muito de diversas tecnologias, Front e Back-End. Apesar de ter atuado mais
 ## Data-Sars | 2023-1 
  ![logoDataSars](https://github.com/user-attachments/assets/f9542a8f-ed17-44d5-b500-685c1dc0cb19)
  
-[GIT](https://github.com/Grupo-Syntax-Squad/API)
+[Acesso ao GIT do Data-Sars](https://github.com/Grupo-Syntax-Squad/API)
 
 ### Empresa Parceira - Fatec (Cliente: Prof Fernando Massanori Ashikaga)
 
@@ -75,7 +75,7 @@ O Data-Sars foi um projeto desafiador, não só pelo fato e ser o meu primeiro p
 
 ### Empresa Parceira - Fatec (Cliente: Prof Cláudio Etelvino de Lima) 
 
-[GIT](https://github.com/Grupo-Syntax-Squad/CallGenie)
+[Acesso ao GIT do CallGenie](https://github.com/Grupo-Syntax-Squad/CallGenie)
 
 ### Problema
 O prof Claudio, da Fatec, propôs a criação de um sistema para empresas e companhias que buscam implementar soluções para gerenciamento de Chamados de Serviços, de modo que facilite a comunicação entre cliente e suporte técnico.
@@ -111,7 +111,7 @@ Apesar de já ter uma ideia de como funcionavam os sistemas de chamados, precise
 
 ![image](https://github.com/user-attachments/assets/5b4a963e-a779-4dd3-a8ed-6142d522301b)
 
-[GIT](https://github.com/Grupo-Syntax-Squad/AssetBox?tab=readme-ov-file)
+[Acesso ao GIT do AssetBox](https://github.com/Grupo-Syntax-Squad/AssetBox?tab=readme-ov-file)
 
 ### Empresa Parceira - Youtan 
 Sobre a empresa: Youtan é uma empresa especializada no desenvolvimento de sistemas web.
@@ -153,7 +153,7 @@ O AssetBox foi meu primeiro projeto em que fui Product Owner, portanto precisei 
 ### Empresa Parceira - Tecsus 
 Sobre a empresa: A TecSUS é uma empresa de tecnologia que realiza gestão de utilidades em água, energia e gases, a fim de reduzir custos, evitar desperdícios e antecipar reparos.
 
-[GIT](https://github.com/Grupo-Syntax-Squad/Tupan)
+[Acesso ao GIT do Tupan](https://github.com/Grupo-Syntax-Squad/Tupan)
 
 ### Problema
 A empresa Tecsus, especializada em IoT para utilidades, planeja desenvolver estações meteorológicas de baixo custo para monitoramento ambiental, utilizando sensores de vento, chuva, umidade, temperatura e pressão. Os dados serão enviados para um servidor, tratados e exibidos em um portal com relatórios, dashboards e conceitos matemáticos para engajar alunos do ensino médio. O objetivo é conscientizar sobre a importância do monitoramento ambiental e a prevenção de desastres naturais.
