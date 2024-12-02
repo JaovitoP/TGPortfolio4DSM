@@ -1,4 +1,4 @@
-# TG Portfolio 📋
+# TG Portfolio
 Portfólio criado para a disciplina Programação para Dispositivos Móveis, ministrada pelo professor Gerson da Penha Neto, com projetos acadêmicos desenvolvidos durante a graduação.
 # Introdução
 
@@ -39,10 +39,12 @@ Gosto muito de diversas tecnologias, Front e Back-End. Apesar de ter atuado mais
 
 ### Empresa Parceira - Fatec (Cliente: Prof Fernando Massanori Ashikaga)
 
-### Visão do Projeto 
+### Problema
+A COVID Longa é uma condição que se refere aos sintomas que um paciente apresenta em após ter a COVID 19 como palpitações cardíacas, febre e dificuldade em respirar. Os dados relacionado à COVID Longa não foram tão divulgados quanto os da COVID 19 em si, e os portais de transparência, com dados da saúde, não apresentam de forma simples para a população, de modo que dificulta até para pessoas atuantes na área da saúde de encontrar estes dados.
 
-Para jornalistas da Rede Vanguarda que desejam acessar, visualizar e analisar dados da COVID Longa, o "Data-SARS" é um site que permite um fácil acesso a informações relacionadas a COVID Longa. Ao contrário de alguns sites que propagam Fake News e que não possuem filtros de pesquisa, o nosso produto fornece os dados de maneira que seja fácil de entender e de analisar os dados, uma vez que nossos dados são autênticos e possuímos uma área de interação minimalista. 
-Atuei na prototipação no Figma, na criação do site com HTML e na estilização utilizando CSS 
+### Solução
+
+Para jornalistas da Rede Vanguarda que desejam acessar, visualizar e analisar dados da COVID Longa, o "Data-SARS" é um site que permite um fácil acesso a informações relacionadas a COVID Longa. Ao contrário de alguns sites que propagam Fake News e que não possuem filtros de pesquisa, o nosso produto fornece os dados de maneira que seja fácil de entender e de analisar os dados, uma vez que nossos dados são autênticos e possuímos uma área de interação minimalista.
 
 ### Tecnologias Utilizadas 
 
@@ -75,9 +77,13 @@ O Data-Sars foi um projeto desafiador, não só pelo fato e ser o meu primeiro p
 
 [GIT](https://github.com/Grupo-Syntax-Squad/CallGenie)
 
-### Visão do Projeto 
+### Problema
+O prof Claudio, da Fatec, propôs a criação de um sistema para empresas e companhias que buscam implementar soluções para gerenciamento de Chamados de Serviços, de modo que facilite a comunicação entre cliente e suporte técnico.
 
-Para empresas e companhias que buscam implementar soluções para gerenciamento de Chamados de Serviços, o "CallGenie" é um sistema CRUD que permite a melhor gestão dos chamados, contando com uma área de interação minimalista e documentos que auxiliam o usuário a usar o sistema. Neste projeto, implantamos o sistema para uma loja fictícia de informática, entretanto, nosso sistema pode ser implantado em qualquer área, contanto que exista a dificuldade de gestão dos chamados. 
+
+### Solução
+
+O "CallGenie" é um sistema CRUD (create, read, update, delete) que permite a melhor gestão dos chamados, contando com uma área de interação minimalista e documentos que auxiliam o usuário a usar o sistema. Neste projeto, implantamos o sistema para uma loja fictícia de informática, entretanto, nosso sistema pode ser implantado em qualquer área, contanto que exista a dificuldade de gestão dos chamados. 
 
 ### Tecnologias Utilizadas 
 
@@ -113,7 +119,7 @@ Sobre a empresa: Youtan é uma empresa especializada no desenvolvimento de siste
 ### Problema
 Quando a empresa e seus ativos ainda são pequenos, soluções simples podem ajudar nesta gestão, no entanto, quando a empresa começa a crescer é necessário utilizar ferramentas mais completas. Uma gestão ineficaz destes ativos pode levar a empresa a perder dinheiro, ter seu crescimento prejudicado e tomar decisões mal embasadas, aumentando o risco de ter prejuízos. Por isso, a empresa Youtan solicitou aos alunos da Fatec para desenvolver um sistema com gestão eficaz.
 
-### Visão do Projeto 
+### Solução
 
 A gestão de ativos deve ser feita de forma cuidadosa e correta para garantir um bom desempenho destes recursos, melhoria em processos internos, redução de custos, aproveitamento de oportunidades, redução de riscos e assertividade na tomada de decisões. Dado este contexto, o sistema da AssetBox foi a solução web que desenvolvemos para auxiliar empresas nessa gestão. 
 
