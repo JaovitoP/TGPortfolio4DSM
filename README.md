@@ -71,7 +71,8 @@ O Data-Sars foi um projeto desafiador, não só pelo fato e ser o meu primeiro p
 
 * Estilização e responsividade com CSS3 - Sei fazer com autonomia; 
 * Construção da aplicação em Flask - Sei fazer com autonomia; 
-* Execução em container Docker - Sei fazer com ajuda; 
+* Execução em container Docker - Sei fazer com ajuda;
+* Prototipação do site com Figma - Sei fazer com autonomia;
 
 ## CallGenie | 2023-2 
 
